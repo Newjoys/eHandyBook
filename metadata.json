@@ -1,0 +1,7 @@
+{
+  "name": "Vector Scrapbook Studio",
+  "description": "A professional-grade interactive digital scrapbook system with flat vector aesthetics, parametric component editing, and Gemini-powered smart journaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
